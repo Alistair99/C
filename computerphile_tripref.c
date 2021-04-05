@@ -1,4 +1,3 @@
-
 // from http://www.eprg.org/computerphile/tripref.c
 // see YouTube triple poonter video at https://www.youtube.com/watch?v=0ZEX_l0DFK0
 // see YouTube code video at https://www.youtube.com/watch?v=1s0w_p5HEuY
